@@ -31,15 +31,21 @@
     left: 0;
     z-index: 1;
   }
-  .title ul{
+  .title p{
     font-size: 20px;
     color: #FCEFEF;
     text-align: center;
     margin: 0;
     letter-spacing: 7px;
-    margin-top: 10px;
-    font-family: 'Lobster', cursive;
+     margin-top: 10px;
+     
+    /* font-family: 'Lobster', cursive; */ 
   }
+  #list li{
+    text-decoration: none;
+  }
+  
+  
   /* .type ul li{
     justify-content: center;
   } */
