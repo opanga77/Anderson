@@ -38,7 +38,11 @@
     margin: 0;
     letter-spacing: 7px;
     margin-top: 10px;
+    font-family: 'Lobster', cursive;
   }
+  /* .type ul li{
+    justify-content: center;
+  } */
   /* .intro{
     text-align: center;
     padding-top: 20px;
