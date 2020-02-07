@@ -76,3 +76,10 @@
   #personal{
     background-color: lightgrey;
   }
+  #paragraph{
+    background-color:white ;
+    width: 600px;
+    padding: 15px;
+    margin: 25px;    
+
+  }
