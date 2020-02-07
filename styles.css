@@ -72,4 +72,7 @@
   .card{
     display: flex;
     justify-content:space-around ;
+  } 
+  #personal{
+    background-color: lightgrey;
   }
