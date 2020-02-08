@@ -1,6 +1,5 @@
 .container{
   background-image: url("https://bit.ly/3bkZaaP");
-    /* background-image: url("image/IMG_20191031_160541.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -10,7 +9,6 @@
   }
   .title{
     position: absolute;
-    /* top: 50%; */
     left: 30%;
     -webkit-transform: translatey(-50%);
     -ms-transform: translateY(-50%);
@@ -25,7 +23,6 @@
     margin: 0;
   }
   .overlay{
-    /* background: rgba(53, 56, 56, 0.842); */
     width: 100%;
     height: 1200px;
     position: absolute;
@@ -41,23 +38,14 @@
     letter-spacing: 7px;
      margin-top: 10px;
      
-    /* font-family: 'Lobster', cursive; */ 
+    
   }
   #list li{
     text-decoration: none;
   }
   
   
-  /* .type ul li{
-    justify-content: center;
-  } */
-  /* .intro{
-    text-align: center;
-    padding-top: 20px;
-    text-indent: 10px;
-    font-size: 20px;
-    font-family: sans-serif;
-  } */
+  
   .cards{
     box-shadow: 5px 5px 5px grey;
     height: 300px;
